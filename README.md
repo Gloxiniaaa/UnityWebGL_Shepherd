@@ -13,7 +13,7 @@ But, everyone, feel free to give it a try. I'll appreciate your feedback.
 
 ---
 ## Give it a try
-**[Play Shepherd](https://gloxiniaaa.github.io/WebGL_Shepherd/)**
+**[Play Shepherd](https://gloxiniaaa.github.io/UnityWebGL_Shepherd/)**
 
 ---
 
